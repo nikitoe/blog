@@ -1,0 +1,8 @@
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
+
+[submodule "public"]
+	path = public
+	url = https://github.com/nikitoe/nikitoe.github.io.git
+	branch = master
